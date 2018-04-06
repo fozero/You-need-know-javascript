@@ -2,6 +2,8 @@
 
 > 作为一名前端工程师，你必须知道的一些javascript知识点
 
+![](images/You-need-to-know-javascript.png)
+
 ### 索引目录
 - ES5/ES6
 - 闭包
